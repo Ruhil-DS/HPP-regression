@@ -14,4 +14,4 @@ Here's a list of things i learnt with this project that i had no strong knowledg
 - Stratified train-test split
 - Setting up pipelines
 - Different regression techniques and models
-- hyper-parameter tuning using GridSearchCV and RandomizedSearchCV
+- Hyper-parameter tuning using GridSearchCV and RandomizedSearchCV
