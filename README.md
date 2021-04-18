@@ -3,7 +3,7 @@ Housing Price Prediction
 
 This was an ML project where i used regression to predict the housing prices using a 1990 california housing price dataset
 
-This project was in accordance to the book - Hands-On Machine Learning by Aurelien Geron
+This project was in accordance with the book - Hands-On Machine Learning by Aurelien Geron
 
 I used many strategies to build a reasonably strong model to predict the housing prices with all the features provided and adding additional features using feature engineering.
 
